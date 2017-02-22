@@ -1,3 +1,4 @@
 *.data
 /mars/surface/
 !final.data
+tmp*.txt
